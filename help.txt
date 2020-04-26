@@ -1,0 +1,36 @@
+====================================================================================================
+    // | |  /__  ___/ / /        // | |     //   ) )  /|    / / //   / / /__  ___/ 
+   //__| |    / /    / /        //__| |    ((        //|   / / //____      / /     
+  / ___  |   / /    / /        / ___  |      \\     // |  / / / ____      / /      
+ //    | |  / /    / /        //    | |        ) ) //  | / / //          / /       
+//     | | / /    / /____/ / //     | | ((___ / / //   |/ / //____/ /   / /        
+====================================================================================================
+
+HELP PAGE
+
+*Commands
+	*print-
+		prints out all bots that currently set
+	*set-
+		sends bot to initialized list
+	*setall-
+		sends all bots in repository to initialized list
+	*rmset-
+		removes bot from initialized list
+	*rmsetall-
+		removes all bots from intialized list
+	*add-
+		adds bot to repository
+	*rm-
+		removes bot from repository
+	*rmall-
+		removes all bots from repository and clears saved list
+	*command-
+		starts command and control session with all intialized bots
+	*sudo-
+		sets all bots in sudo mode once in command and control session (if bot is a Windows machine it will ignore this)
+	*clear-
+		wipes entire screen and reloads header showing bots in repository and their status.
+
+
+Print q to go back to AtlasNet
